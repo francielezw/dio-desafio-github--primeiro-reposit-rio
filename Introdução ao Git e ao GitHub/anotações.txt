@@ -1,0 +1,13 @@
+O que são Gi e GitHub 
+
+O Git é um sistema de controle de versão distribuído e amplamente adotado. O Git nasceu e foi tomando espaço dos outros sistemas de controle. Seu criador principal é o mesmo que o do Linux: Linus Torvalds, e ganhou o coração das pessoas que trabalham com open source.
+
+O Github tem sim muita relação com o Git. GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
+
+O sistema web que ele possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e testes. Para se comunicar com o github e mexer nos arquivos do seu reposítorio, você pode usar a linha de comando, usando o comando do git e suas diretivas de commit, pull e push. Parece assustador? Há uma alternativa: usar um aplicativo desktop mais intuitivo, o GitHub Desktop.
+
+O que é um git commit?
+
+Cada commit registra um momento de vida do seu projeto. É uma foto (snapshot) daquele instante dos arquivos. Com isso você consegue se referenciar àquele momento do projeto, podendo voltar a ele, analisá-lo, ver as diferenças com um outro momento. Não se esqueça que os commits são feitos no seu repositório local e você precisa 'pushar' (empurrá-los) de volta para a origem, para que outras pessoas tenham acesso a essas fotos e atualizem-se no tempo de vida.
+
+https://balta.io/blog/git-github-primeiros-passos#:~:text=Git%20%C3%A9%20um%20sistema%20de,base%20para%20versionar%20nossos%20c%C3%B3digos.
